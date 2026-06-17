@@ -32,6 +32,3 @@ Supports targeted recommendations across **22 distinct crop varieties** (e.g., R
 ---
 
 
-```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-cd your-repo-name
